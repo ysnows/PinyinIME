@@ -1,0 +1,218 @@
+
+{
+	"buildFiles" : [ "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"/Users/ysnows/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"engine-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "engine",
+			"buildCommand" : "/Users/ysnows/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86 --target engine",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot   -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/dictbuilder.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot   -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/dictlist.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot   -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/dicttrie.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot   -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/lpicache.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot   -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/mystdlib.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot   -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/ngram.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot   -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/searchutility.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot   -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/spellingtable.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot   -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/spellingtrie.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot   -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/splparser.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot   -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/utf16char.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot   -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/utf16reader.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86/libengine.a",
+			"toolchain" : "1064182219012649176"
+		},
+		"jni_pinyinime-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "jni_pinyinime",
+			"buildCommand" : "/Users/ysnows/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86 --target jni_pinyinime",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/android/com_android_inputmethod_pinyin_PinyinDecoderService.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/dictbuilder.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/dictlist.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/dicttrie.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/lpicache.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/matrixsearch.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/mystdlib.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/ngram.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/pinyinime.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/searchutility.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/spellingtable.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/spellingtrie.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/splparser.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/userdict.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/utf16char.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/utf16reader.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot  -Djni_pinyinime_EXPORTS -I/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/src/main/cpp/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ysnows/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/ysnows/Downloads/PinyinIME/app/src/main/cpp/share/sync.cpp",
+					"workingDirectory" : "/Users/ysnows/Downloads/PinyinIME/app/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "/Users/ysnows/Downloads/PinyinIME/app/build/intermediates/cmake/debug/obj/x86/libjni_pinyinime.so",
+			"toolchain" : "1064182219012649176"
+		}
+	},
+	"toolchains" : 
+	{
+		"1064182219012649176" : 
+		{
+			"cCompilerExecutable" : "/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/ysnows/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

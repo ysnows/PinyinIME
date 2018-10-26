@@ -186,6 +186,7 @@ public class PinyinIME extends InputMethodService {
         Settings.getInstance(PreferenceManager
                 .getDefaultSharedPreferences(getApplicationContext()));
 
+
         mInputModeSwitcher = new InputModeSwitcher(this);
         mChoiceNotifier = new ChoiceNotifier(this);
         mGestureListenerSkb = new OnGestureListener(false);
